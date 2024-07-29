@@ -1,0 +1,30 @@
+References and Bibliography:
+
+Apps Love World (2023). [Solved]-How to write a Foreach loop statement in EJS-node.js. [online] Hire Developers, Free Coding Resources for the Developer. Available at: https://www.appsloveworld.com/nodejs/100/594/how-to-write-a-foreach-loop-statement-in-ejs [Accessed 30 Aug. 2023].
+Bootstrap Documentation (2023). Dropdowns. [online] getbootstrap.com. Available at: https://getbootstrap.com/docs/5.3/components/dropdowns/?#accessibility [Accessed 30 Aug. 2023].
+Digital Ocean (2020). How To Launch Child Processes in Node.js | DigitalOcean. [online] www.digitalocean.com. Available at: https://www.digitalocean.com/community/tutorials/how-to-launch-child-processes-in-node-js [Accessed 15 Aug. 2023].
+Eernisse, M. (2020). EJS -- Embedded JavaScript templates. [online] Ejs.co. Available at: https://ejs.co/ [Accessed 30 Aug. 2023].
+Google APIs (2023). Storage - Documentation. [online] googleapis.dev. Available at: https://googleapis.dev/nodejs/storage/latest/Storage.html [Accessed 20 Aug. 2023].
+Google Cloud Documentation (2023). Upload objects from a filesystem | Cloud Storage. [online] Google Cloud. Available at: https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-client-libraries [Accessed 12 Aug. 2023].
+Google Storage Documentation (2023a). Use Cloud Storage | Google App Engine flexible environment docs. [online] Google Cloud. Available at: https://cloud.google.com/appengine/docs/flexible/using-cloud-storage?tab=node.js#top [Accessed 12 Aug. 2023].
+Google Storage Documentation (2023b). Reading and writing to Cloud Storage | App Engine standard environment for Python 2. [online] Google Cloud. Available at: https://cloud.google.com/appengine/docs/legacy/standard/python/googlecloudstorageclient/read-write-to-cloud-storage [Accessed 16 Aug. 2023].
+Hossain, K. (2023). Upload file to Google cloud storage from Node.js server. [online] DEV Community. Available at: https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-from-nodejs-server-5cdg [Accessed 12 Aug. 2023].
+Joblib (2023). Joblib: running Python functions as pipeline jobs — joblib 1.3.2 documentation. [online] joblib.readthedocs.io. Available at: https://joblib.readthedocs.io/en/stable/ [Accessed 17 Aug. 2023].
+Kumar, S. (2023). python-dotenv: Add .env support to your django/flask apps in development and deployments. [online] PyPI. Available at: https://pypi.org/project/python-dotenv/ [Accessed 18 Aug. 2023].
+Node.js Documentation (2023). Path | Node.js v20.6.0 Documentation. [online] nodejs.org. Available at: https://nodejs.org/api/path.html [Accessed 16 Aug. 2023].
+Pradeepkumar P. (2022). Cloud Computing Coursework MSc Data Science. Birkbeck University of London.
+Python (2019). os — Miscellaneous operating system interfaces — Python 3.8.0 documentation. [online] Python.org. Available at: https://docs.python.org/3/library/os.html [Accessed 17 Aug. 2023].
+Python (2023a). io — Core tools for working with streams — Python 3.8.3rc1 documentation. [online] docs.python.org. Available at: https://docs.python.org/3/library/io.html [Accessed 17 Aug. 2023].
+Python (2023b). json — JSON encoder and decoder — Python 3.8.3rc1 documentation. [online] docs.python.org. Available at: https://docs.python.org/3/library/json.html [Accessed 20 Aug. 2023].
+Real Python (2020). Fourier Transforms With scipy.fft: Python Signal Processing – Real Python. [online] realpython.com. Available at: https://realpython.com/python-scipy-fft/ [Accessed 19 Aug. 2023].
+Scipy (2023). Fourier Transforms (scipy.fft) — SciPy v1.8.1 Manual. [online] docs.scipy.org. Available at: https://docs.scipy.org/doc/scipy/tutorial/fft.html [Accessed 18 Aug. 2023].
+Sotiriadis S. (2022a). Class 1: Introduction. Lecture slides. Cloud Computing. Birkbeck University of London, delivered November 2022.
+Sotiriadis S. (2022b). Class 2: Cloud Web Services. Lecture slides. Cloud Computing. Birkbeck University of London, delivered November 2022.
+Sotiriadis S. (2022c). Class 3: SaaS, Microservices and REST. Lecture slides. Cloud Computing. Birkbeck University of London, delivered November 2022.
+Sotiriadis S. (2022d). Class 4: Introduction to Distributed Systems. Lecture slides. Cloud Computing. Birkbeck University of London, delivered November 2022.
+Sotiriadis S. (2022e). Class 5: DevOps and Containers. Lecture slides. Cloud Computing. Birkbeck University of London, delivered November 2022.
+Tabnine (2023a). @google-cloud/storage.Bucket.file JavaScript and Node.js code examples | Tabnine. [online] www.tabnine.com. Available at: https://www.tabnine.com/code/javascript/functions/%40google-cloud%2Fstorage/Bucket/file [Accessed 12 Aug. 2023].
+Tabnine (2023b). express.Response.clearCookie JavaScript and Node.js code examples | Tabnine. [online] www.tabnine.com. Available at: https://www.tabnine.com/code/javascript/functions/express/Response/clearCookie [Accessed 29 Aug. 2023].
+Victor, U. (2023). Node.js User Authentication Guide | LoginRadius Blog. [online] www.loginradius.com. Available at: https://www.loginradius.com/blog/engineering/guest-post/nodejs-authentication-guide/ [Accessed 29 Aug. 2023].
+W3 Schools (2023). JSON.parse(). [online] W3schools.com. Available at: https://www.w3schools.com/Js/js_json_parse.asp [Accessed 15 Aug. 2023].
+Yaapa, H. (2022). multer. [online] npm. Available at: https://www.npmjs.com/package/multer [Accessed 13 Aug. 2023].

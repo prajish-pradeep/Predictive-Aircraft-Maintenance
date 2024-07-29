@@ -1,0 +1,4 @@
+sampled_testing_dataset.csv - The sampled_testing_dataset contains 100 samples of sensor data for the last cycle of each engine in testing dataset.  I have added sensor deviations in this dataset to test the monitoring and alert system.
+PM_train.csv - Training dataset
+PM_test.csv - Testing dataset
+PM_truth.csv - Truth dataset contains the last RUL value for each engine in testing dataset.

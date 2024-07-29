@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Login</title>
+</head>
+<body>
+<body style="background-color: Bisque;">
+  <div class="container">
+    <div class="col" style="padding-top: 200px;">
+      <div class="row h-100 justify-content-center">
+        <div class="card" style="width: 400px; height: 350px;">
+          <div class="card-body">
+            <div class="text-left">
+              <h4>Login</h4>
+            </div>
+            <div id="error-message" style="color: red;"></div>
+            <br>
+            <form action="/login" method="post">
+              <div class="form-group">
+                <label for="emailInput">Email address</label>
+                <input type="email" name="email" class="form-control" id="emailInput">
+              </div>
+              <div class="form-group">
+                <label for="exampleInputPassword1">Password</label>
+                <input type="password" name="password" class="form-control" id="exampleInputPassword1">
+              </div>
+              <br>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const errorMessage = urlParams.get('error');
+
+    if (errorMessage) {
+        document.getElementById('error-message').textContent = decodeURIComponent(errorMessage);
+    }
+</script>
+
+</body>
+</html>
+
+<!-- references: -->
+<!-- (Bootstrap Documentation, 2023) -->
